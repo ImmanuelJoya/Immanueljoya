@@ -7,7 +7,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&color=A0E7E5&center=true&vCenter=true&width=450&lines=Full-stack+Learner+%7C+Code+Tinkerer+%7C+Tech+Curious" alt="Typing SVG" />
+  <a href="https://immanuelxxportfolio.netlify.app" target="_blank">
+    <img src="https://typing-svg.demolab.com?font=JetBrains+Mono&size=18&color=A0E7E5&center=true&vCenter=true&width=500&lines=Full-stack+Learner;Code+Tinkerer;Tech+Curious" alt="Typing SVG" />
+  </a>
 </p>
 ---
 
