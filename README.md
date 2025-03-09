@@ -1,13 +1,13 @@
 <!-- Header with subtle gradient and minimalist animation -->
 <h1 align="center">
   <span style="background: linear-gradient(90deg, #A0E7E5, #B4F8C8); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-    Immanuel Joya ✨
+    Immanuel Joya 🌌
   </span><br/>
   <span style="font-size: 1.2em; color: #D1D5DB;">Exploring Web Development, Step by Step</span>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&color=A0E7E5&center=true&vCenter=true&width=450&lines=Full-stack+Learner+%7C+Code+Tinkerer+%7C+Tech+Curious" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&color=A0E7E5&center=true&vCenter=true&width=450&lines= Full-stack+Learner+%7C+Code+Tinkerer+%7C+Tech+Curious" alt="Typing SVG" />
 </p>
 
 ---
@@ -92,13 +92,12 @@ Take a peek at what I’ve been working on:<br/>
 
 ---
 
-### 🌈 Say Hello
-Got a suggestion or just want to chat about code? I’d love to hear from you!<br/>
+### 🌌 Get in Touch
+Have an idea or opportunity? Let’s build something amazing together!<br/>
 📧 <a href="mailto:immanueljoy107@gmail.com">immanueljoy107@gmail.com</a>  
-💡 Feedback is always welcome—feel free to drop a note or star my work!
+💬 Open to feedback—drop me a line or star my repo!
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ImmanuelJoya&icon=5&color=10" alt="Visitor Count" />
+  <img src="https://visitcount.itsvg.in/api?id=ImmanuelJoya&icon=0&color=9" alt="Visitor Count" />
 </p>
-
 <!-- Made with curiosity and a lot of coffee -->
