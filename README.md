@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&color=A0E7E5&center=true&vCenter=true&width=450&lines=Full-stack+Learner+%7C+Code+Tinkerer+%7C+Tech+Curious" alt="Typing SVG" />
 </p>
----                    ---                    ---                    ---                    ---                    ---                    ---                   ---                    ---                 ---
+---
 
 ### 🌱 About Me
 🔭 I’m working on my <a href="https://immanuelxxportfolio.netlify.app" target="_blank">portfolio</a> and experimenting with projects to grow my skills.<br/>
