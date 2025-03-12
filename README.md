@@ -70,7 +70,7 @@
 ---
 
 ### 🌟 My Portfolio
-Take a peek at what I’ve been working on:<br/>
+Take a peek at what I’ve been working on lately:<br/>
 👉 <a href="https://immanuelxxportfolio.netlify.app" target="_blank">immanuelxxportfolio.netlify.app</a>  
 - **Frontend**: Crafted with React, Vite, and Tailwind CSS for a clean, responsive look.  
 - **Backend**: A simple Go API on Vercel: <a href="https://portfolio-pied-beta-91.vercel.app" target="_blank">portfolio-pied-beta-91.vercel.app</a>
