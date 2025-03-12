@@ -89,7 +89,7 @@ Take a peek at what I’ve been working on lately:<br/>
 ### 🔧 A Project I’m Proud Of
 <p align="center">
   <a href="https://github.com/ImmanuelJoya/Portfolio_">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImmanuelJoya&repo=Portfolio&theme=dracula&hide_border=true&bg_color=1F2227" alt="Portfolio Repo" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImmanuelJoya&repo=Portfolio&theme=dracula&hide_border=true&bg_color=1F2227" alt="A simple Portfolio created using React+Vite for FrontEnd, Tailwind for styling, and GO for backend (Work in progress). " />
   </a>
   
 </p>
