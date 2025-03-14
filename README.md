@@ -1,4 +1,4 @@
- <!-- Header with subtle gradient and minimalist animation -->
+<!-- Header with subtle gradient and minimalist animation -->
 <h1 align="center">
   <span style="background: linear-gradient(90deg, #A0E7E5, #B4F8C8); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
     Immanuel Joya 🌌  
@@ -8,7 +8,7 @@
 
 <p align="center">
 <img 
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=FFD700&weight=700&center=true&vCenter=true&width=500&lines=Exploring+the+World+of+Code;Turning+Coffee+into+Software" 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=FFD700&weight=700¢er=true&vCenter=true&width=500&lines=Exploring+the+World+of+Code;Turning+Coffee+into+Software" 
   alt="Typing SVG" 
 />
 </p>
@@ -62,6 +62,19 @@
 
 ---
 
+### 🛠️ My Tech Toolbox
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/IntelliJ-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
+  <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" /><br/>
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-%23007AAB.svg?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+---
+
 ### 🎓 Certifications I’ve Earned
 <p align="center">
   <img src="https://img.shields.io/badge/Advanced%20React-Meta-%2300ADD8.svg?style=flat-square&logo=react&logoColor=white" alt="Advanced React - Meta" /> 
@@ -94,7 +107,6 @@ Take a peek at what I’ve been working on lately:<br/>
   <a href="https://github.com/ImmanuelJoya/Portfolio_">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImmanuelJoya&repo=Portfolio&theme=dracula&hide_border=true&bg_color=1F2227" alt="Portfolio Repo" />
   </a>
-  
 </p>
 
 ---
