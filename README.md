@@ -70,6 +70,8 @@
   <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" /><br/>
   <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-%23007AAB.svg?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
   <img src="https://img.shields.io/badge/Microsoft%20Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/Git%20Hub-%230078D4.svg?style=for-the-badge&logo=git-hub&logoColor=white" alt="Github" />
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
