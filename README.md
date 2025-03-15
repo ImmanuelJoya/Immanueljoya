@@ -8,7 +8,7 @@
 
 <p align="center">
 <img 
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=FFD700&weight=700¢er=true&vCenter=true&width=500&lines=Exploring+the+World+of+Code;Turning+Coffee+into+Software" 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=FFD700&weight=700&center=true&vCenter=true&width=500&lines=Exploring+the+World+of+Code;Turning+Coffee+into+Software;Building+the+Future,+Bit+by+Bit" 
   alt="Typing SVG" 
 />
 </p>
@@ -19,6 +19,7 @@
 👯 I’d love to team up with others—collaboration is a great way to learn!<br/>
 🤝 Hoping to find a spot in the web development world where I can contribute.<br/>
 🌿 Always learning, trying to get better at what I do, one line of code at a time.<br/>
+☕ Fun fact: My best code is fueled by dark roast coffee.
 
 ---
 
@@ -63,6 +64,7 @@
 ---
 
 ### 🛠️ My Tech Toolbox
+Tools I rely on to write, debug, and ship projects:<br/>
 <p align="center">
   <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
@@ -89,7 +91,8 @@
 Take a peek at what I’ve been working on lately:<br/>
 👉 <a href="https://immanuelxxportfolio.netlify.app" target="_blank">immanuelxxportfolio.netlify.app</a>  
 - **Frontend**: Crafted with React, Vite, and Tailwind CSS for a clean, responsive look.  
-- **Backend**: A simple Go API on Vercel: <a href="https://portfolio-pied-beta-91.vercel.app" target="_blank">portfolio-pied-beta-91.vercel.app</a>
+- **Backend**: A simple Go API on Vercel: <a href="https://portfolio-pied-beta-91.vercel.app" target="_blank">portfolio-pied-beta-91.vercel.app</a>  
+👉 *More projects coming soon!*
 
 ---
 
@@ -104,7 +107,7 @@ Take a peek at what I’ve been working on lately:<br/>
 
 ### 🔧 A Project I’m Proud Of
 <p align="center">
-  <a href="https://github.com/ImmanuelJoya/Portfolio_">
+  <a href="https://github.com/ImmanuelJoya/Portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ImmanuelJoya&repo=Portfolio&theme=dracula&hide_border=true&bg_color=1F2227" alt="Portfolio Repo" />
   </a>
 </p>
@@ -114,7 +117,12 @@ Take a peek at what I’ve been working on lately:<br/>
 ### 🌌 Get in Touch
 Have an idea or opportunity? Let’s build something amazing together!<br/>
 📧 <a href="mailto:immanueljoy107@gmail.com">immanueljoy107@gmail.com</a>  
-💬 Open to feedback—drop me a line or star my repo!
+💬 Open to feedback—drop me a line or star my repo!<br/>
+<p align="center">
+  <a href="https://github.com/ImmanuelJoya">
+    <img src="https://img.shields.io/github/followers/ImmanuelJoya?style=social" alt="GitHub Follow" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=ImmanuelJoya&icon=0&color=9" alt="Visitor Count" />
