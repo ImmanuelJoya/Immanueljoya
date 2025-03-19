@@ -80,8 +80,7 @@
 ### 🎓 Certifications I’ve Earned
 <p align="center">
   <img src="https://img.shields.io/badge/Advanced%20React-Meta-%2300ADD8.svg?style=flat-square&logo=react&logoColor=white" alt="Advanced React - Meta" /> 
-  <img src="https://img.shields.io/badge/Python%20for%20Data%20Science-IBM-%233670A0.svg?style=flat-square&logo=python&logoColor=ffdd54" alt="Python for Data Science and AI developing - IBM" /><br/>
-  <img src="https://img.shields.io/badge/Jira-LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="Jira - LinkedIn" />
+<img src="https://img.shields.io/badge/Python%20for%20Data%20Science%20and%20AI%20developing-IBM-%233670A0.svg?style=flat-square&logo=python&logoColor=ffdd54" alt="Python for Data Science and AI developing - IBM" />  <img src="https://img.shields.io/badge/Jira-LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="Jira - LinkedIn" />
   <img src="https://img.shields.io/badge/Azure%20DevOps-LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="Azure DevOps - LinkedIn" />
 </p>
 
