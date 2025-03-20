@@ -1,6 +1,6 @@
    <!-- Header with subtle gradient and minimalist animation -->
 <h1 align="center">
-  <span style="background: linear-gradient(90deg, #A0E7E5, #B4F8C8); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">  
+  <span style="background: linear-gradient(90deg, #A0E7E5, #B4F8C8); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">    
     Immanuel Joya 🌌  
   </span> <br/>
   <span style="font-size: 1.2em; color: #D1D5DB;">Exploring Web Development, Step by Step</span>  
