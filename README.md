@@ -42,29 +42,60 @@
 
 ### 💻 Tools I’m Learning
 
-### 💻 Tools I’m Learning
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin: 10px;" /><br>JavaScript
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/react/react-original.svg" alt="React" width="50" height="50" style="margin: 10px;" /><br>React
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" height="50" style="margin: 10px;" /><br>TailwindCSS
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/go/go-original.svg" alt="Go" width="50" height="50" style="margin: 10px;" /><br>Go
-  <br>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin: 10px;" /><br>Python
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/fastapi/fastapi-plain.svg" alt="FastAPI" width="50" height="50" style="margin: 10px;" /><br>FastAPI
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" style="margin: 10px;" /><br>HTML
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="margin: 10px;" /><br>CSS
-  <br>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" style="margin: 10px;" /><br>Node.js
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50" height="50" style="margin: 10px;" /><br>Bootstrap
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/jquery/jquery-original.svg" alt="jQuery" width="50" height="50" style="margin: 10px;" /><br>jQuery
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" style="margin: 10px;" /><br>TypeScript
-  <br>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/php/php-original.svg" alt="PHP" width="50" height="50" style="margin: 10px;" /><br>PHP
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/express/express-original.svg" alt="Express" width="50" height="50" style="margin: 10px;" /><br>Express
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" style="margin: 10px;" /><br>MySQL
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" style="margin: 10px;" /><br>Figma
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" /><br>JavaScript
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/react/react-original.svg" alt="React" width="50" height="50" /><br>React
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" height="50" /><br>TailwindCSS
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/go/go-original.svg" alt="Go" width="50" height="50" /><br>Go
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/python/python-original.svg" alt="Python" width="50" height="50" /><br>Python
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/fastapi/fastapi-plain.svg" alt="FastAPI" width="50" height="50" /><br>FastAPI
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" /><br>HTML
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" /><br>CSS
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" /><br>Node.js
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50" height="50" /><br>Bootstrap
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/jquery/jquery-original.svg" alt="jQuery" width="50" height="50" /><br>jQuery
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" /><br>TypeScript
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/php/php-original.svg" alt="PHP" width="50" height="50" /><br>PHP
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/express/express-original.svg" alt="Express" width="50" height="50" /><br>Express
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" /><br>MySQL
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" /><br>Figma
+    </td>
+  </tr>
+</table>
 ---
 
 ### 🛠️ My Tech Toolbox
