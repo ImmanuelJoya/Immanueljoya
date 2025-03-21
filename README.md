@@ -41,7 +41,6 @@
 ---
 
 ### 💻 Tools I’m Learning
-### 💻 Tools I’m Learning
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center;">
   <!-- JavaScript -->
@@ -129,17 +128,49 @@
 ---
 
 ### 🛠️ My Tech Toolbox
-<p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/IntelliJ-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
-  <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" /><br/>
-  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-%23007AAB.svg?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure" />
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure" />
-  <img src="https://img.shields.io/badge/Git%20Hub-%230078D4.svg?style=for-the-badge&logo=git-hub&logoColor=white" alt="Github" />
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center;">
+  <!-- VS Code -->
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
+    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/vscode/vscode-original.svg" alt="VS Code" style="width: 50px; height: 50px; margin-bottom: 5px;" />
+    <span style="font-size: 14px; color: #fff; text-align: center;">VS Code</span>
+  </div>
+  <!-- Postman -->
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
+    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/postman/postman-original.svg" alt="Postman" style="width: 50px; height: 50px; margin-bottom: 5px;" />
+    <span style="font-size: 14px; color: #fff; text-align: center;">Postman</span>
+  </div>
+  <!-- IntelliJ -->
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
+    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/intellij/intellij-original.svg" alt="IntelliJ" style="width: 50px; height: 50px; margin-bottom: 5px;" />
+    <span style="font-size: 14px; color: #fff; text-align: center;">IntelliJ</span>
+  </div>
+  <!-- Android Studio -->
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
+    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" style="width: 50px; height: 50px; margin-bottom: 5px;" />
+    <span style="font-size: 14px; color: #fff; text-align: center;">Android Studio</span>
+  </div>
+  <!-- Cisco Packet Tracer -->
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
+    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/cisco/cisco-original.svg" alt="Cisco Packet Tracer" style="width: 50px; height: 50px; margin-bottom: 5px;" />
+    <span style="font-size: 14px; color: #fff; text-align: center;">Cisco Packet Tracer</span>
+  </div>
+  <!-- Microsoft Azure -->
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
+    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/azure/azure-original.svg" alt="Microsoft Azure" style="width: 50px; height: 50px; margin-bottom: 5px;" />
+    <span style="font-size: 14px; color: #fff; text-align: center;">Azure</span>
+  </div>
+  <!-- GitHub -->
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
+    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/github/github-original.svg" alt="GitHub" style="width: 50px; height: 50px; margin-bottom: 5px;" />
+    <span style="font-size: 14px; color: #fff; text-align: center;">GitHub</span>
+  </div>
+  <!-- Docker -->
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
+    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/docker/docker-original.svg" alt="Docker" style="width: 50px; height: 50px; margin-bottom: 5px;" />
+    <span style="font-size: 14px; color: #fff; text-align: center;">Docker</span>
+  </div>
+</div>
 
 ---
 
