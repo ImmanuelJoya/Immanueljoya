@@ -98,50 +98,38 @@
 </table>
 ---
 
+---
+
 ### 🛠️ My Tech Toolbox
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center;">
-  <!-- VS Code -->
-  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/vscode/vscode-original.svg" alt="VS Code" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-    <span style="font-size: 14px; color: #fff; text-align: center;">VS Code</span>
-  </div>
-  <!-- Postman -->
-  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/postman/postman-original.svg" alt="Postman" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-    <span style="font-size: 14px; color: #fff; text-align: center;">Postman</span>
-  </div>
-  <!-- IntelliJ -->
-  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/intellij/intellij-original.svg" alt="IntelliJ" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-    <span style="font-size: 14px; color: #fff; text-align: center;">IntelliJ</span>
-  </div>
-  <!-- Android Studio -->
-  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-    <span style="font-size: 14px; color: #fff; text-align: center;">Android Studio</span>
-  </div>
-  <!-- Cisco Packet Tracer -->
-  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/cisco/cisco-original.svg" alt="Cisco Packet Tracer" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-    <span style="font-size: 14px; color: #fff; text-align: center;">Cisco Packet Tracer</span>
-  </div>
-  <!-- Microsoft Azure -->
-  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/azure/azure-original.svg" alt="Microsoft Azure" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-    <span style="font-size: 14px; color: #fff; text-align: center;">Azure</span>
-  </div>
-  <!-- GitHub -->
-  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/github/github-original.svg" alt="GitHub" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-    <span style="font-size: 14px; color: #fff; text-align: center;">GitHub</span>
-  </div>
-  <!-- Docker -->
-  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/docker/docker-original.svg" alt="Docker" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-    <span style="font-size: 14px; color: #fff; text-align: center;">Docker</span>
-  </div>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" /><br>VS Code
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/postman/postman-original.svg" alt="Postman" width="50" height="50" /><br>Postman
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/intellij/intellij-original.svg" alt="IntelliJ" width="50" height="50" /><br>IntelliJ
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="50" height="50" /><br>Android Studio
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/cisco/cisco-original.svg" alt="Cisco Packet Tracer" width="50" height="50" /><br>Cisco Packet Tracer
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/azure/azure-original.svg" alt="Microsoft Azure" width="50" height="50" /><br>Azure
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/github/github-original.svg" alt="GitHub" width="50" height="50" /><br>GitHub
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" /><br>Docker
+    </td>
+  </tr>
+</table>
 
 ---
 
