@@ -42,89 +42,29 @@
 
 ### 💻 Tools I’m Learning
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center;">
-  <!-- JavaScript -->
-  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/javascript/javascript-original.svg" alt="JavaScript" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-    <span style="font-size: 14px; color: #fff; text-align: center;">JavaScript</span>
-  </div>
-  <!-- React -->
-  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/react/react-original.svg" alt="React" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-    <span style="font-size: 14px; color: #fff; text-align: center;">React</span>
-  </div>
-  <!-- Tailwind CSS -->
-  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-    <span style="font-size: 14px; color: #fff; text-align: center;">TailwindCSS</span>
-  </div>
-  <!-- Go -->
-  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/go/go-original.svg" alt="Go" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-    <span style="font-size: 14px; color: #fff; text-align: center;">Go</span>
-  </div>
-  <!-- Python -->
-  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/python/python-original.svg" alt="Python" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-    <span style="font-size: 14px; color: #fff; text-align: center;">Python</span>
-  </div>
-  <!-- FastAPI -->
-  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/fastapi/fastapi-plain.svg" alt="FastAPI" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-    <span style="font-size: 14px; color: #fff; text-align: center;">FastAPI</span>
-  </div>
-  <!-- HTML5 -->
-  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/html5/html5-original.svg" alt="HTML5" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-    <span style="font-size: 14px; color: #fff; text-align: center;">HTML</span>
-  </div>
-  <!-- CSS3 -->
-  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/css3/css3-original.svg" alt="CSS3" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-    <span style="font-size: 14px; color: #fff; text-align: center;">CSS</span>
-  </div>
-  <!-- Node.js -->
-  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/nodejs/nodejs-original.svg" alt="Node.js" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-    <span style="font-size: 14px; color: #fff; text-align: center;">Node.js</span>
-  </div>
-  <!-- Bootstrap -->
-  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-    <span style="font-size: 14px; color: #fff; text-align: center;">Bootstrap</span>
-  </div>
-  <!-- jQuery -->
-  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/jquery/jquery-original.svg" alt="jQuery" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-    <span style="font-size: 14px; color: #fff; text-align: center;">jQuery</span>
-  </div>
-  <!-- TypeScript -->
-  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/typescript/typescript-original.svg" alt="TypeScript" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-    <span style="font-size: 14px; color: #fff; text-align: center;">TypeScript</span>
-  </div>
-  <!-- PHP -->
-  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/php/php-original.svg" alt="PHP" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-    <span style="font-size: 14px; color: #fff; text-align: center;">PHP</span>
-  </div>
-  <!-- Express -->
-  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/express/express-original.svg" alt="Express" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-    <span style="font-size: 14px; color: #fff; text-align: center;">Express</span>
-  </div>
-  <!-- MySQL -->
-  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/mysql/mysql-original.svg" alt="MySQL" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-    <span style="font-size: 14px; color: #fff; text-align: center;">MySQL</span>
-  </div>
-  <!-- Figma -->
-  <div style="display: flex; flex-direction: column; align-items: center; width: 80px;">
-    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/figma/figma-original.svg" alt="Figma" style="width: 50px; height: 50px; margin-bottom: 5px;" />
-    <span style="font-size: 14px; color: #fff; text-align: center;">Figma</span>
-  </div>
-</div>
+### 💻 Tools I’m Learning
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin: 10px;" /><br>JavaScript
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/react/react-original.svg" alt="React" width="50" height="50" style="margin: 10px;" /><br>React
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" height="50" style="margin: 10px;" /><br>TailwindCSS
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/go/go-original.svg" alt="Go" width="50" height="50" style="margin: 10px;" /><br>Go
+  <br>
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin: 10px;" /><br>Python
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/fastapi/fastapi-plain.svg" alt="FastAPI" width="50" height="50" style="margin: 10px;" /><br>FastAPI
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" style="margin: 10px;" /><br>HTML
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="margin: 10px;" /><br>CSS
+  <br>
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" style="margin: 10px;" /><br>Node.js
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50" height="50" style="margin: 10px;" /><br>Bootstrap
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/jquery/jquery-original.svg" alt="jQuery" width="50" height="50" style="margin: 10px;" /><br>jQuery
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" style="margin: 10px;" /><br>TypeScript
+  <br>
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/php/php-original.svg" alt="PHP" width="50" height="50" style="margin: 10px;" /><br>PHP
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/express/express-original.svg" alt="Express" width="50" height="50" style="margin: 10px;" /><br>Express
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" style="margin: 10px;" /><br>MySQL
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" style="margin: 10px;" /><br>Figma
+</p>
 ---
 
 ### 🛠️ My Tech Toolbox
