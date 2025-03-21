@@ -100,33 +100,32 @@
 
 ---
 
+---
+
 ### 🛠️ My Tech Toolbox
 
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" /><br>VS Code
+      <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" /><br>VS Code
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/postman/postman-original.svg" alt="Postman" width="50" height="50" /><br>Postman
+      <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="50" height="50" /><br>Postman
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/intellij/intellij-original.svg" alt="IntelliJ" width="50" height="50" /><br>IntelliJ
+      <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/intellij/intellij-original.svg" alt="IntelliJ" width="50" height="50" /><br>IntelliJ
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="50" height="50" /><br>Android Studio
+      <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="50" height="50" /><br>Android Studio
+    </td>
+       <td align="center">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/azure/azure-original.svg" alt="Microsoft Azure" width="50" height="50" /><br>Azure
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/cisco/cisco-original.svg" alt="Cisco Packet Tracer" width="50" height="50" /><br>Cisco Packet Tracer
+      <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="50" height="50" /><br>GitHub
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/azure/azure-original.svg" alt="Microsoft Azure" width="50" height="50" /><br>Azure
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/github/github-original.svg" alt="GitHub" width="50" height="50" /><br>GitHub
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" /><br>Docker
+      <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" /><br>Docker
     </td>
   </tr>
 </table>
