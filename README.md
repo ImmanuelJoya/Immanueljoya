@@ -95,7 +95,13 @@
       <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" /><br>Figma
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Htmx_logo.svg/512px-Htmx_logo.svg.png" alt="HTMX" width="50" height="50" /><br>HTMX
+    </td>
+  </tr>
 </table>
+
 ---
 
 ---
