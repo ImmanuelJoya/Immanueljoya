@@ -125,8 +125,8 @@
       <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" /><br>Docker
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/vmware/vmware-original.svg" alt="VMware Workstation" width="50" height="50" /><br>VMware Workstation
-    </td>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/VMware_logo.svg/1200px-VMware_logo.svg.png" alt="VMware Workstation" width="50" height="50" /><br>VMware Workstation
+</td>
   </tr>
 </table>
 
