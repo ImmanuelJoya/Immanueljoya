@@ -115,7 +115,7 @@
     <td align="center">
       <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="50" height="50" /><br>Android Studio
     </td>
-       <td align="center">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/azure/azure-original.svg" alt="Microsoft Azure" width="50" height="50" /><br>Azure
     </td>
     <td align="center">
@@ -123,6 +123,9 @@
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" /><br>Docker
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/VMware_Workstation_16_icon.svg" alt="VMware Workstation" width="50" height="50" /><br>VMware Workstation
     </td>
   </tr>
 </table>
