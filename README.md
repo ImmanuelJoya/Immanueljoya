@@ -125,10 +125,11 @@
       <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" /><br>Docker
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/VMware_Workstation_16_icon.svg" alt="VMware Workstation" width="50" height="50" /><br>VMware Workstation
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/VMware_Workstation_Logo.png" alt="VMware Workstation" width="50" height="50" /><br>VMware Workstation
     </td>
   </tr>
 </table>
+
 
 ---
 
