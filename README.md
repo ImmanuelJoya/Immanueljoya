@@ -15,7 +15,7 @@
 
 ---
 
-### 🌱 About Me
+### 🌱 About Me  
 🔭 I’m working on my <a href="https://immanuelxxportfolio.netlify.app" target="_blank">portfolio</a> and experimenting with projects to grow my skills.<br/>
 👯 I’d love to team up with others—collaboration is a great way to learn!<br/>
 🤝 Hoping to find a spot in the web development world where I can contribute.<br/>
