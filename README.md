@@ -19,7 +19,7 @@
 🔭 I’m working on my <a href="https://immanuelxxportfolio.netlify.app" target="_blank">portfolio</a> and experimenting with projects to grow my skills.<br/>
 👯 I’d love to team up with others—collaboration is a great way to learn!<br/>
 🤝 Hoping to find a spot in the web development world where I can contribute.<br/>
-🌿 Always learning, trying to get better at what I do, one line of code at a time.<br/>
+🌿 Always learning, trying to get better at what I do, <strong>one line of code at a time.<strong/><br/>
 
 ---
 
