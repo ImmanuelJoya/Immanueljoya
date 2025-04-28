@@ -13,7 +13,7 @@
 />
 </p>
 
----
+--- 
 
 ### 🌱 About Me  
 🔭 I’m working on my <a href="https://immanuelxxportfolio.netlify.app" target="_blank">portfolio</a> and experimenting with projects to grow my skills.<br/>
