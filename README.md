@@ -41,7 +41,7 @@
 
 ---
 
-### 💻 Tools I’m Learning
+### 💻 Tools I’m Working with
 
 <table align="center">
   <tr>
