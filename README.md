@@ -96,6 +96,14 @@
       <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" /><br>Figma
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="50" height="50" /><br>Vue.js
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" /><br>MongoDB
+    </td>
+  </tr>
 </table>
 
 ---
