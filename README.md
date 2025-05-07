@@ -4,7 +4,7 @@
     Immanuel Joya 🌌  
   </span> <br/>
   <span style="font-size: 1.2em; color: #D1D5DB;">Exploring Web Development, Step by Step</span>  
-</h1>
+</h1> 
 
 <p align="center">
 <img 
