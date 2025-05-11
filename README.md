@@ -3,7 +3,7 @@
   <span style="background: linear-gradient(190deg, #A0E7E3, #B4F8C8); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">       
     Immanuel Joya 🌌  
   </span> <br/>
-  <span style="font-size: 1.2em; color: #D1D5DB;">Exploring Web Development, Step by Step</span>  
+  <span style="font-size: 1.2em; color: #D1D5DB;">Exploring Web Development, Step by Step</span>   
 </h1> 
 
 <p align="center">
