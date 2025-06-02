@@ -1,5 +1,5 @@
 <!-- A coustom Header with subtle gradient and minimalist animation -->                       
-<h1 align="center">  
+<h1 align="center">    
   <span style="background: linear-gradient(190deg, #A0E7E3, #B4F8C8); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">       
     Immanuel Joya 🌌  
   </span> <br/>
