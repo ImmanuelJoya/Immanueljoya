@@ -120,9 +120,12 @@ Live Demo: immanuelxxportfolio.netlify.app
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-💭 Dev Quote
+💭 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%">
+  <p><strong>
+    If more money wouldn't change how you spend your time, you're already RICH.
+    </strong>
+  </p>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 🎵 Spotify Playing
