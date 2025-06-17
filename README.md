@@ -66,35 +66,25 @@ hobbies: ["Coding", "Learning", "Coffee", "Music"]
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,go,php,mysql,mongodb,firebase&theme=dark" />
 </p>
-🛠️ My Tech Toolbox
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" /><br>VS Code
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="50" height="50" /><br>Postman
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/intellij/intellij-original.svg" alt="IntelliJ" width="50" height="50" /><br>IntelliJ
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="50" height="50" /><br>Android Studio
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/azure/azure-original.svg" alt="Microsoft Azure" width="50" height="50" /><br>Azure
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="50" height="50" /><br>GitHub
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/npm/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" /><br>Docker
-    </td>
-    <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/22806957?s=200&v=4" alt="Local by Flywheel" width="50" height="50" /><br>Local
-    </td>
-  </tr>
-</table>
+🛠️ Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,azure,postman,androidstudio,idea&theme=dark" />
+</p>
+<!-- Animated Tech Stats -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImmanuelJoya&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> GitHub Analytics
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ImmanuelJoya&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ImmanuelJoya&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117"/>
+</div>
+<!-- GitHub Streak Stats -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ImmanuelJoya&theme=react&hide_border=true&background=0D1117" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ImmanuelJoya&theme=react&hide_border=true&bg_color=0D1117" width="49%" />
+</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 🏆 Achievements & Certifications
 <div align="center">
