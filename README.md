@@ -88,11 +88,12 @@ hobbies: ["Coding", "Learning", "Coffee", "Music"]
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 🏆 Achievements & Certifications
 <div align="center">
-Advanced React - Meta
-Python for AI developement and Data Science - IBM
-Jira - LinkedIn
-Azure Dev Ops - LinkedIn
-JavaScript Algorithms and Data Structures - FerrCodeCamp (In Progress)
+  <img src="https://img.shields.io/badge/Advanced%20React-Meta-%2300ADD8.svg?style=flat-square&logo=react&logoColor=white" alt="Advanced React - Meta" /><br/>
+  <img src="https://img.shields.io/badge/Python%20for%20AI%20Development%20and%20Data%20Science-IBM-%233670A0.svg?style=flat-square&logo=python&logoColor=ffdd54" alt="Python for AI Development and Data Science - IBM" /><br/>
+  <img src="https://img.shields.io/badge/Jira-LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="Jira - LinkedIn" /><br/>
+  <img src="https://img.shields.io/badge/Azure%20DevOps-LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="Azure DevOps - LinkedIn" /><br/>
+  <img src="https://img.shields.io/badge/JavaScript%20Algorithms%20and%20Data%20Structures-FreeCodeCamp-%23F7DF1E.svg?style=flat-square&logo=freecodecamp&logoColor=black" alt="JavaScript Algorithms and Data Structures - FreeCodeCamp (In Progress)" />
+  <span style="color: #FFA500; font-weight: bold;">🚧 In Progress</span>
 </div>
 <!-- GitHub Trophies -->
 <div align="center">
