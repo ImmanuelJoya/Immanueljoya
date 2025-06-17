@@ -88,10 +88,11 @@ hobbies: ["Coding", "Learning", "Coffee", "Music"]
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 🏆 Achievements & Certifications
 <div align="center">
-Show Image
-Show Image
-Show Image
-Show Image
+Advanced React - Meta
+Python for AI developement and Data Science - IBM
+Jira - LinkedIn
+Azure Dev Ops - LinkedIn
+JavaScript Algorithms and Data Structures - FerrCodeCamp (In Progress)
 </div>
 <!-- GitHub Trophies -->
 <div align="center">
