@@ -1,7 +1,7 @@
 <div align="center"> 
 <!-- Animated Header with Cosmic Theme -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Immanuel%20Joy&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Crafting%20Digital%20Experiences%20%E2%9C%A8&descAlignY=51&descAlign=62"/>
-<!-- Dynamic Typing Animation -->
+<!-- Dynamic Typing Animation --> 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=600&height=100&lines=%F0%9F%9A%80+Full+Stack+Developer;%E2%9C%A8+Turning+Ideas+into+Reality;%F0%9F%8C%8C+Building+the+Future;%F0%9F%92%BB+Code+%7C+Coffee+%7C+Create" alt="Typing SVG" />
 </p>
