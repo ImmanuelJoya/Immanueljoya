@@ -39,7 +39,7 @@ technical_background:
   
 currently_learning: ["Advanced React Patterns", "System Design", "DevOps"]
 2025_goals: ["Land First Dev Role", "Build Amazing Projects", "Contribute to Open Source"]
-hobbies: ["Coding", "Learning", "Coffee", "Music"]
+hobbies: ["Coding", "Learning", "Coffee", "Music", "Gaming"]
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Connect With Me
 <p align="center">
