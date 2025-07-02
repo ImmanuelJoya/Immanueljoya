@@ -62,7 +62,7 @@ hobbies: ["Coding", "Learning", "Coffee", "Music", "Gaming"]
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap,jquery,figma&theme=dark" />
 </p>
-⚡ Backend & Database
+⚡ Backend & Database 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,go,php,mysql,mongodb,firebase&theme=dark" />
 </p>
