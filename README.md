@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="center">  
 <!-- Animated Header with Cosmic Theme -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Immanuel%20Joy&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Crafting%20Digital%20Experiences%20%E2%9C%A8&descAlignY=51&descAlign=62"/>
 <!-- Dynamic Typing Animation --> 
