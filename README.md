@@ -140,7 +140,7 @@ Live Demo: immanuelxxportfolio.netlify.app
 <img src="https://komarev.com/ghpvc/?username=ImmanuelJoya&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
 Thanks for stopping by! Let's connect and build something amazing together! 🚀
 
-Made with 💖 and lots of ☕
+Made with 💖 and lots of ☕ 
 </div>
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
