@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=600&height=100&lines=%F0%9F%9A%80+Full+Stack+Developer;%E2%9C%A8+Turning+Ideas+into+Reality;%F0%9F%8C%8C+Building+the+Future;%F0%9F%92%BB+Code+%7C+Coffee+%7C+Create" alt="Typing SVG" />
 </p>
 <!-- Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> 
 </div>
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> About Me
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
