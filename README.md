@@ -86,16 +86,23 @@ hobbies: ["Coding", "Learning", "Coffee", "Music", "Gaming"]
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ImmanuelJoya&theme=react&hide_border=true&bg_color=0D1117" width="49%" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-🏆 Achievements & Certifications
+### 🏆 Achievements & Certifications
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Advanced%20React-Meta-%2300ADD8.svg?style=flat-square&logo=react&logoColor=white" alt="Advanced React - Meta" /><br/>
-  <img src="https://img.shields.io/badge/Advanced%20React-Meta-%2300ADD8.svg?style=flat-square&logo=react&logoColor=white" alt="AWS Cloud Practitioner Essentials - AWS Skill Builder" /><br/>
-  
-  <img src="https://img.shields.io/badge/Python%20for%20AI%20Development%20and%20Data%20Science-IBM-%233670A0.svg?style=flat-square&logo=python&logoColor=ffdd54" alt="Python for AI Development and Data Science - IBM" /><br/>
-  <img src="https://img.shields.io/badge/Jira-LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="Jira - LinkedIn" /><br/>
-  <img src="https://img.shields.io/badge/Azure%20DevOps-LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="Azure DevOps - LinkedIn" /><br/>
-  <img src="https://img.shields.io/badge/JavaScript%20Algorithms%20and%20Data%20Structures-FreeCodeCamp-%23F7DF1E.svg?style=flat-square&logo=freecodecamp&logoColor=black" alt="JavaScript Algorithms and Data Structures - FreeCodeCamp (In Progress)" />
-  <span style="color: #FFA500; font-weight: bold;">🚧 In Progress</span>
+  <img src="https://img.shields.io/badge/Advanced%20React-Meta-%2300ADD8.svg?style=flat-square&logo=react&logoColor=white" alt="Advanced React - Meta" />
+  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner Essentials" />
+  <br/>
+
+  <img src="https://img.shields.io/badge/Python%20for%20AI%20%26%20Data%20Science-IBM-%233670A0.svg?style=flat-square&logo=python&logoColor=ffdd54" alt="Python for AI Development and Data Science - IBM" />
+  <br/>
+
+  <img src="https://img.shields.io/badge/Jira-LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="Jira - LinkedIn" />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="Azure DevOps - LinkedIn" />
+  <br/>
+
+  <img src="https://img.shields.io/badge/JS%20Algorithms%20%26%20Data%20Structures-FreeCodeCamp-%23F7DF1E.svg?style=flat-square&logo=freecodecamp&logoColor=black" alt="JavaScript Algorithms and Data Structures" />
+  <br/>
+  <b>🚧 In Progress: JavaScript Algorithms and Data Structures</b>
 </div>
 <!-- GitHub Trophies -->
 <div align="center">
