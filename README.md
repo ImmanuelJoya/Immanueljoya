@@ -89,6 +89,8 @@ hobbies: ["Coding", "Learning", "Coffee", "Music", "Gaming"]
 🏆 Achievements & Certifications
 <div align="center">
   <img src="https://img.shields.io/badge/Advanced%20React-Meta-%2300ADD8.svg?style=flat-square&logo=react&logoColor=white" alt="Advanced React - Meta" /><br/>
+  <img src="https://img.shields.io/badge/Advanced%20React-Meta-%2300ADD8.svg?style=flat-square&logo=react&logoColor=white" alt="AWS Cloud Practitioner Essentials - AWS Skill Builder" /><br/>
+  
   <img src="https://img.shields.io/badge/Python%20for%20AI%20Development%20and%20Data%20Science-IBM-%233670A0.svg?style=flat-square&logo=python&logoColor=ffdd54" alt="Python for AI Development and Data Science - IBM" /><br/>
   <img src="https://img.shields.io/badge/Jira-LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="Jira - LinkedIn" /><br/>
   <img src="https://img.shields.io/badge/Azure%20DevOps-LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="Azure DevOps - LinkedIn" /><br/>
