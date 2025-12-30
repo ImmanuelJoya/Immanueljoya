@@ -1,155 +1,214 @@
-<div align="center">             
-<!-- Animated Header with Cosmic Theme -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0 ,2,2,5,30&height=300&section=header&text=Immanuel%20Joy&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Crafting%20Digital%20Experiences%20%E2%9C%A8&descAlignY=51&descAlign=62"/>
-<!-- Dynamic Typing Animation --> 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=600&height=100&lines=%F0%9F%9A%80+Full+Stack+Developer ;%E2%9C%A8+Turning+Ideas+into+Reality;%F0%9F%8C%8C+Building+the+Future;%F0%9F%92%BB+Code+%7C+Coffee+%7C+Create" alt="Typing SVG" />
-</p>
-<!-- Glowing Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif " width="100%"> 
-</div>
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif " width="32"> About Me
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif ">
-yamlname: Immanuel Joy
-located_in: Earth, Milky Way Galaxy 🌌
-current_job: Web Development Explorer
-education:
-  [
-    "Self-taught Developer",
-    "Continuous Learner"
-  ]
-company: Building My Path 🛤️
+<br clear="right"/>
 
-fields_of_interests:
-  [
-    "Web Development",
-    "Frontend Magic",
-    "Backend Architecture",
-    "UI/UX Design",
-    "Cloud Computing"
-  ]
-  
-technical_background:
-  [
-    "Full-Stack Development",
-    "Modern JavaScript Frameworks",
-    "Cloud Infrastructure",
-    "Database Design"
-  ]
-  
-currently_learning: ["Advanced React Patterns", "System Design", "DevOps"]
-2025_goals: ["Land First Dev Role", "Build Amazing Projects", "Contribute to Open Source"]
-hobbies: ["Coding", "Learning", "Coffee", "Music", "Gaming"]
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif " width="100%">
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif " width="35"> Connect With Me
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Connect With Me
+
 <p align="center">
-  <a href="https://instagram.com/immanuel__joy ">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=20 " />
+  <a href="https://www.linkedin.com/in/immanuel-joy-178b66294/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn"/>
   </a>
-  <a href="https://www.linkedin.com/in/immanuel-joy-178b66294/ ">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white " />
+  <a href="https://x.com/ImmanuelJoy17">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
-  <a href="https://x.com/ImmanuelJoy17 ">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white " />
+  <a href="https://instagram.com/immanuel__joy">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:immanueljoy107@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white " />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://immanuelxxportfolio.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif " width="100%">
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif " width="35"> Tech Arsenal
-🎨 Frontend Mastery
+
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"> Tech Stack
+
+### 🎨 Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html ,css,js,ts,react,vue,tailwind,bootstrap,jquery,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,tailwind,bootstrap,sass&perline=10&theme=dark" />
 </p>
-⚡ Backend & Database 
+
+### ⚡ Backend & Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs ,express,python,fastapi,go,php,mysql,mongodb,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,go,php,mysql,mongodb,postgresql,firebase&perline=10&theme=dark" />
 </p>
-🛠️ Tools & Platforms
+
+### 🛠️ Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode ,git,github,docker,azure,postman,androidstudio,idea&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,azure,aws,vscode,postman,figma,androidstudio&perline=10&theme=dark" />
 </p>
-<!-- Animated Tech Stats -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImmanuelJoya&theme=react-dark&bg_color=20232a&hide_border=true " width="100%"/>
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif " width="100%">
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif " width="35"> GitHub Analytics
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ImmanuelJoya&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117 "/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ImmanuelJoya&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117 "/>
-</div>
-<!-- GitHub Streak Stats -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ImmanuelJoya&theme=react&hide_border=true&background=0D1117 " width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ImmanuelJoya&theme=react&hide_border=true&bg_color=0D1117 " width="49%" />
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif " width="100%">
-### 🏆 Achievements & Certifications
+
+### 📊 Testing & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jest,cypress,githubactions,jenkins,nginx,linux,bash&perline=7&theme=dark" />
+</p>
+
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> GitHub Analytics
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Advanced%20React-Meta-%2300ADD8.svg?style=flat-square&logo=react&logoColor=white " alt="Advanced React - Meta" />
-  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white " alt="AWS Cloud Practitioner Essentials" />
-  <br/>
-
-  <img src="https://img.shields.io/badge/Python%20for%20AI%20%26%20Data%20Science-IBM-%233670A0.svg?style=flat-square&logo=python&logoColor=ffdd54 " alt="Python for AI Development and Data Science - IBM" />
-  <br/>
-
-  <img src="https://img.shields.io/badge/Jira-LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white " alt="Jira - LinkedIn" />
-  <img src="https://img.shields.io/badge/Azure%20DevOps-LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white " alt="Azure DevOps - LinkedIn" />
-  <br/>
-
-  <img src="https://img.shields.io/badge/JS%20Algorithms%20%26%20Data%20Structures-FreeCodeCamp-%23F7DF1E.svg?style=flat-square&logo=freecodecamp&logoColor=black " alt="JavaScript Algorithms and Data Structures" />
-  <br/>
-  <b>🚧 In Progress: JavaScript Algorithms and Data Structures</b>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ImmanuelJoya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ImmanuelJoya&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=F59E0B&currStreakLabel=3B82F6" alt="GitHub Streak"/>
 </div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImmanuelJoya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ImmanuelJoya&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" alt="Contribution Graph"/>
+</div>
+
 <!-- GitHub Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ImmanuelJoya&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1 " width="100%" />
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif " width="100%">
-🌟 Featured Projects
-<div align="center">
-Show Image
-</div>
-🚀 My Digital Playground
-Live Demo: immanuelxxportfolio.netlify.app
-
-🎨 Frontend Magic: React + Vite + Tailwind CSS
-⚡ Backend Power: Go API hosted on Vercel
-🌐 API Endpoint: portfolio-pied-beta-91.vercel.app
-✨ Features: Responsive design, smooth animations, modern UI
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif " width="100%">
-📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImmanuelJoya&custom_title=Immanuel 's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%">
-</div>
-<!-- Snake eating contributions -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg " width="100%">
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif " width="100%">
-💭 
-<div align="center">
-  <p><strong>
-    If more money wouldn't change how you spend your time, you're already RICH.
-    </strong>
-  </p>
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif " width="100%">
-🎵 Spotify Playing
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff " width="350" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ImmanuelJoya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies"/>
 </div>
 
-<div align="center">
-🌈 "Building tomorrow's web, one commit at a time"
-<img src="https://komarev.com/ghpvc/?username=ImmanuelJoya&label=Profile%20Views&color=brightgreen&style=for-the-badge " />
-Thanks for stopping by! Let's connect and build something amazing together! 🚀
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-Made with 💖 and lots of ☕ 
+## 🏆 Achievements & Certifications
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### Platform Certifications
+![Advanced React](https://img.shields.io/badge/Advanced%20React-Meta-00D9FF?style=for-the-badge&logo=react&logoColor=white)
+![AWS Cloud](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Amazon-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Python AI](https://img.shields.io/badge/Python%20for%20AI-IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
+
+</td>
+<td align="center" width="50%">
+
+### Professional Tools
+![Jira](https://img.shields.io/badge/Jira-LinkedIn-0A66C2?style=for-the-badge&logo=jira&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-LinkedIn-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
+![JS Algorithms](https://img.shields.io/badge/JS%20Algorithms-FreeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  
+**🚧 Currently Working On:** JavaScript Algorithms and Data Structures Certification
+
 </div>
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer "/>
+
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🌟 Featured Project
+
+<div align="center">
+
+### 🚀 Personal Portfolio Website
+
+[![Portfolio Preview](https://img.shields.io/badge/🌐_Live_Demo-Visit_Portfolio-4CAF50?style=for-the-badge)](https://immanuelxxportfolio.netlify.app)
+[![API Backend](https://img.shields.io/badge/⚡_API-Vercel_Endpoint-000000?style=for-the-badge&logo=vercel)](https://portfolio-pied-beta-91.vercel.app)
+
+<table>
+<tr>
+<td>
+
+**Frontend Stack**
+- ⚛️ React + Vite
+- 🎨 Tailwind CSS
+- ✨ Framer Motion
+- 📱 Fully Responsive
+
+</td>
+<td>
+
+**Backend Stack**
+- 🔥 Go API
+- ☁️ Vercel Hosting
+- 🚀 Serverless Functions
+- 📊 Real-time Analytics
+
+</td>
+</tr>
+</table>
+
+**Features:** Modern UI/UX • Smooth Animations • Dark Mode • Performance Optimized • SEO Ready
+
+</div>
+
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📊 Coding Activity
+
+<div align="center">
+  
+<!-- WakaTime Stats -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ImmanuelJoya&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF&layout=compact" alt="WakaTime Stats" width="50%"/>
+
+</div>
+
+<!-- Contribution Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🎵 Currently Vibing To
+
+<div align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=3b82f6&bar_color_cover=true" alt="Spotify Now Playing" />
+</div>
+
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 💬 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImmanuelJoya&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Activity" width="95%"/>
+</div>
+
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+### 💡 Philosophy
+
+> *"If more money wouldn't change how you spend your time,  
+> you're already RICH."*
+
+---
+
+### 🤝 Let's Build Something Amazing Together!
+
+I'm always interested in collaborating on innovative projects, contributing to open source, or just chatting about tech over coffee ☕
+
+**Open for:** Full-time opportunities | Freelance projects | Open source collaboration | Tech discussions
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=120&section=footer"/>
+
+**Made with 💙 by Immanuel Joy** • *Last Updated: 2025*
+
+<sub>⭐ From [ImmanuelJoya](https://github.com/ImmanuelJoya)</sub>
+
+</div>
